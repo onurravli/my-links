@@ -1,9 +1,11 @@
 # my-links
 
-## Do not open a PR or an issue! Instead fork this or create your own `my-links` repo. 
+## Do not open a PR or an issue! Instead fork this or create your own `my-links` repo.
+
 This is my personal `my-links` repo. You need your own.
 
 ## Welcome to `my-links`
+
 a repo for individuals to customize their page on links.dev
 
 ### To use this repo, follow these steps
@@ -27,3 +29,5 @@ If you want to make changes to your link in bio page, simply update your page.js
 changes to your repo, and refresh the page to see the updates.
 
 Happy customizing!
+
+[![CI](https://github.com/onurravli/my-links/actions/workflows/main.yml/badge.svg)](https://github.com/onurravli/my-links/actions/workflows/main.yml)
