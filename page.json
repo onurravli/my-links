@@ -1,56 +1,41 @@
 {
   "name": "Fatih Yavuz",
   "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "image_url": "./profile-picture.jpeg",
   "links": [
     {
-      "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "title": "Onur Ravli",
+      "url": "https://linkedin.com/in/onurravli/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/onurravli",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/onurravli",
       "icon": "twitter"
     },
     {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
+      "url": "https://buymeacoffee.com/onurravli",
       "icon": "mug"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://instagram.com/onurravli",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
       "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
+      "url": "https://leetcode.com/onurravli",
       "icon": "click"
     },
     {
       "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
+      "url": "https://open.spotify.com/user/onurravli",
       "icon": "spotify"
     }
   ]
