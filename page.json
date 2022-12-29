@@ -1,10 +1,10 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "./profile-picture.jpeg",
+  "name": "Onur Ravli",
+  "description": "Jr. Developer, C++ Lover, Student",
+  "image_url": "https://avatars.githubusercontent.com/u/47084109?v=4",
   "links": [
     {
-      "title": "Onur Ravli",
+      "title": "LinkedIn",
       "url": "https://linkedin.com/in/onurravli/",
       "icon": "linkedin"
     },
