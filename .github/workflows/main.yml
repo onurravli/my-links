@@ -2,9 +2,7 @@ name: CI
 
 on:
   schedule:
-    - cron: 0 0 * * *
-    branches:
-      - main
+    - cron: "*/5 * * * *"
 
 jobs:
   build:
